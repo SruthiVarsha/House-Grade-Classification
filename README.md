@@ -3,6 +3,6 @@ Property buyers have different requirements. To facilitate this, real estate com
 
 The Grade (condition of the house that ranges from A (Best) - E (Worst)) can also be used by existing owners to list their properties for sale. Grading helps them in arriving at a price of the house.
 
-Business Objective
+# Business Objective
 
 Build a predictive model to determine the Grade of house (The grades are A,B,C,D, and E)
